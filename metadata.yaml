@@ -1,0 +1,29 @@
+_repo: A-Little-Girl-in-Old-Detroit_20721
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20721-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Douglas, Amanda M.
+    alias: Douglas, Amanda Minnie
+    birthdate: 1831
+    deathdate: 1916
+    gutenberg_agent_id: '9482'
+    url: http://www.gutenberg.org/2009/agents/9482
+description: The stirring times in which the little girl lived, and the social life
+  of a bygone age are depicted very happily.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Detroit (Mich.) -- Fiction'
+title: A Little Girl in Old Detroit
+url: http://www.gutenberg.org/ebooks/20721
